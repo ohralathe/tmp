@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is for test",
+  "main": "index.js",
+  "author": "hoan",
+  "license": "MIT",
+  "dependencies": {
+    "node-js-sample": "^1.0.3"
+  }
+}
